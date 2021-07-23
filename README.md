@@ -1,4 +1,8 @@
 # Markdown 
+
+
+- [Navegação](#markdown)
+    - [Links](#links)
 ---
 >texto comum
 
@@ -57,6 +61,16 @@ Destacando o comando `document.getElementById`
 >linhas
 
 ----------
+
+>Emojis
+
+Emoji | Comando
+--- | ---
+:open_mouth: | `:open_mouth:`
+:sob: | `:sob:`
+
+Estou surpreso com isso :open_mouth:
+## Links
 >link externo 
 
 [link para o site](https://oqueeumando.online)
