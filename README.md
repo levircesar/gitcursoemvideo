@@ -4,6 +4,13 @@
 - [Navegação](#markdown)
     - [Links](#links)
 ---
+<div style="display: flex; gap: 10px; justify-content: center;">
+
+[![GitHub issues](https://img.shields.io/github/issues/levircesar/gitcursoemvideo)](https://github.com/levircesar/gitcursoemvideo/issues)
+
+[![GitHub license](https://img.shields.io/github/license/levircesar/gitcursoemvideo)](https://github.com/levircesar/gitcursoemvideo/blob/main/LICENSE) 
+
+</div>
 >texto comum
 
 Apenas um texto normal
@@ -82,3 +89,16 @@ Estou surpreso com isso :open_mouth:
 >veio de outro commit
 outro
 teste
+
+# Details
+
+<p align="justify">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=levircesar&show_icons=true&count_private=true&theme=dracula&hide=issues" />
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levircesar&layout=compact&theme=dracula" />
+  </a>
+</p>
+
+
