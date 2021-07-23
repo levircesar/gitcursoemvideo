@@ -4,14 +4,6 @@
 - [Navegação](#markdown)
     - [Links](#links)
 ---
-<div style="display: flex; gap: 10px; justify-content: center;">
-
-[![GitHub issues](https://img.shields.io/github/issues/levircesar/gitcursoemvideo)](https://github.com/levircesar/gitcursoemvideo/issues)
-
-[![GitHub license](https://img.shields.io/github/license/levircesar/gitcursoemvideo)](https://github.com/levircesar/gitcursoemvideo/blob/main/LICENSE) 
-
-</div>
-
 <p align="center">
   <a href="https://github.com/levircesar/gitcursoemvideo/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/levircesar/gitcursoemvideo"></a>
   <a href="https://github.com/levircesar/gitcursoemvideo/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/levircesar/gitcursoemvideo"></a>
